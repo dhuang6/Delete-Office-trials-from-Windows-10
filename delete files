@@ -1,0 +1,3 @@
+REM this batch file removes the data in this folder
+cd "c:/Program Files/Microsoft Office 15"
+del /F * /Q /S
